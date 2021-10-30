@@ -1,5 +1,6 @@
 let val;
 
+/*
 val = document;
 val = document.all;
 val = document.all[15];
@@ -20,6 +21,7 @@ val = document.links[0].id;
 val = document.links[0].className;
 
 val = document.images;
+*/
 
 let scripts = document.scripts;
 
